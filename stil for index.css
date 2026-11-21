@@ -181,7 +181,7 @@ html {
 }
 
 html {
-  scroll-behavior: smooth; /* Плавная прокрутка */
+  scroll-behavior: smooth;
 }
 
 .back-to-top {
@@ -190,10 +190,10 @@ html {
   right: 25px;
   width: 45px;
   height: 45px;
-  background-color: #111; /* Цвет фона кнопки */
-  color: #fff; /* Цвет стрелки */
+  background-color: #111;
+  color: #fff;
   text-decoration: none;
-  border-radius: 50%; /* Делает кнопку круглой */
+  border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -205,5 +205,5 @@ html {
 
 .back-to-top:hover {
   background-color: #333;
-  transform: translateY(-3px); /* Легкий подъем при наведении */
+  transform: translateY(-3px);
 }
